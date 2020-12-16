@@ -12,8 +12,24 @@ I am a third-year Master student from the Deparment of Computer Science and Tech
 
 My research interests include graph neural networks and their applications on text and knowledge graphs.
 
-Publications
-=====
+
+## Publications
+### 2020
+* Zhiyuan Liu, **Jie Zhou**. Introduction to Graph Neural Networks. Synthesis Lectures on Artificial Intelligence and Machine Learning. [[book]](https://www.morganclaypool.com/doi/10.2200/S00980ED1V01Y202001AIM045)
+
+### 2019
+* Ganqu Cui, **Jie Zhou**, Cheng Yang, Zhiyuan Liu. Adaptive Graph Encoder for Attributed Graph Embedding. The 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD 2020). [[paper]](https://dl.acm.org/doi/abs/10.1145/3394486.3403140) [[code]](https://github.com/thunlp/age)
+
+* **Jie Zhou**, Xu Han, Cheng Yang, Zhiyuan Liu, Lifeng Wang, Changcheng Li, Maosong Sun. GEAR: Graph-based Evidence Aggregating and Reasoning for Fact Verification. The 57th Annual Meeting of the Association for Computational Linguistics (ACL 2019). [[paper]](https://arxiv.org/abs/1908.01843) [[code]](https://github.com/thunlp/gear)
+
+## Preprints
+\* indicates equal contribution.
+
+* **Jie Zhou**, Xin Lv, Cheng Yang, Zhiyuan Liu, Juanzi Li, Maosong Sun. KACC: A Multi-task Benchmark for Knowledge Abstraction, Concretization and Completion. Arxiv 2020. [[paper]](https://arxiv.org/abs/2004.13631)
+
+
+
+* **Jie Zhou\***, Ganqu Cui\*, Zhengyan Zhang\*, Cheng Yang, Zhiyuan Liu, Lifeng Wang, Changcheng Li, Maosong Sun. Graph Neural Networks: A Review of Methods and Applications. Arxiv 2018. [[paper]](https://arxiv.org/abs/1812.08434)
 
 A data-driven personal website
 ======
