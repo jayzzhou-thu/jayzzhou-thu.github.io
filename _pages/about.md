@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Master student from the [[Deparment of Computer Science and Technology]](http://www.cs.tsinghua.edu.cn/), Tsinghua University. I am supervised by [[Prof. Zhiyuan Liu]](http://nlp.csai.tsinghua.edu.cn/~lzy/).
+I am a third-year Master student from the [Deparment of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/), Tsinghua University. I am supervised by [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/).
 
 My research interests include graph neural networks and their applications on text and knowledge graphs.
 
@@ -31,14 +31,9 @@ My research interests include graph neural networks and their applications on te
 
 ## Experience
 
-### Reviewer
-- CCL 2019, COLING 2020, WWW 2020
-
-### Review Assistant
-- EMNLP 2019, NLPCC 2019, WSDM 2020
-
-### TA
-- Object Oriented Programming
+- Reviewer: CCL 2019, COLING 2020, WWW 2020 
+- Review Assistant: EMNLP 2019, NLPCC 2019, WSDM 2020
+- TA: Object Oriented Programming, 2019/2020.
 
 ## Awards
 
