@@ -16,9 +16,7 @@ My research interests include graph neural networks and their applications on te
 ## Publications
 ### 2020
 * Introduction to Graph Neural Networks. 
-
 	Zhiyuan Liu, **Jie Zhou**. 
-
 	*Synthesis Lectures on Artificial Intelligence and Machine Learning.* [[book]](https://www.morganclaypool.com/doi/10.2200/S00980ED1V01Y202001AIM045)
 
 ### 2019
