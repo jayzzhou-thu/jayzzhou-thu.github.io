@@ -14,10 +14,9 @@ My research interests include graph neural networks and their applications on te
 
 
 ## Publications
-### 2020
-* Zhiyuan Liu, **Jie Zhou**. [Introduction to Graph Neural Networks.](https://www.morganclaypool.com/doi/10.2200/S00980ED1V01Y202001AIM045) *Synthesis Lectures on Artificial Intelligence and Machine Learning.*
 
-### 2019
+* Zhiyuan Liu, **Jie Zhou**. [Introduction to Graph Neural Networks.](https://www.morganclaypool.com/doi/10.2200/S00980ED1V01Y202001AIM045) *Synthesis Lectures on Artificial Intelligence and Machine Learning 2020.*
+
 * Ganqu Cui, **Jie Zhou**, Cheng Yang, Zhiyuan Liu. [Adaptive Graph Encoder for Attributed Graph Embedding.](https://dl.acm.org/doi/abs/10.1145/3394486.3403140) *The 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD 2020).* [[code]](https://github.com/thunlp/age)
 
 * **Jie Zhou**, Xu Han, Cheng Yang, Zhiyuan Liu, Lifeng Wang, Changcheng Li, Maosong Sun. [GEAR: Graph-based Evidence Aggregating and Reasoning for Fact Verification.](https://arxiv.org/abs/1908.01843) *The 57th Annual Meeting of the Association for Computational Linguistics (ACL 2019).* [[code]](https://github.com/thunlp/gear)
